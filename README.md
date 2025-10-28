@@ -1,4 +1,4 @@
-![ActivityDiagram1](https://github.com/user-attachments/assets/8ab479a7-ca44-4f7a-b740-7737b5a42a68)# Exp - 3 RAILWAY MANAGEMENT SYSTEM
+# Exp - 3 RAILWAY MANAGEMENT SYSTEM
 
 ### NAME: ESWANTH KUMAR K
 ### REG. NO: 212223040046
@@ -39,7 +39,7 @@ vi)Sequence Diagram
 
 ## Activity Diagram
 
-![ActivityDiagram1](https://github.com/user-attachments/assets/b90e9913-387d-4ea3-a2e9-2fde956ec170)
+![ActivityDiagram1](https://github.com/user-attachments/assets/51271eeb-1c79-4bce-9e3b-30addc1c4b64)
 
 ## Communication Diagram
 
