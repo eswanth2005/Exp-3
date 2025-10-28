@@ -22,27 +22,27 @@ vi)Sequence Diagram
 
 # DIAGRAMS:
 
-Use case Diagram
+## Use case Diagram
 
 <img width="959" height="885" alt="image" src="https://github.com/user-attachments/assets/c13ac78c-dfdf-48fc-aea1-6f6aebb65797" />
 
-Class Diagram
+## Class Diagram
 
 <img width="950" height="755" alt="image" src="https://github.com/user-attachments/assets/773a15e8-ff9b-4814-8ca7-c863af5e0c31" />
 
-Sequence Diagram
+## Sequence Diagram
 
 <img width="888" height="975" alt="image" src="https://github.com/user-attachments/assets/f21bf0f7-bc4f-4fb3-a28c-bcc0cdbb0bf1" />
 
-Activity Diagram
+## Activity Diagram
 
 ![ActivityDiagram1](https://github.com/user-attachments/assets/cd7f03a0-f881-4345-ab03-dcd40c1f642e)
 
-Communication Diagram
+## Communication Diagram
 
 <img width="950" height="824" alt="image" src="https://github.com/user-attachments/assets/b52f78b7-0cab-4dab-ae49-76866eabb14b" />
 
-Package Diagram
+## Package Diagram
 
 <img width="948" height="565" alt="image" src="https://github.com/user-attachments/assets/62f910f1-3b24-4a97-a1d3-79beffe451bf" />
 
