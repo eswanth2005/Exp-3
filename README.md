@@ -39,7 +39,7 @@ vi)Sequence Diagram
 
 ## Activity Diagram
 
-![ActivityDiagram1](https://github.com/user-attachments/assets/cd7f03a0-f881-4345-ab03-dcd40c1f642e)
+![ActivityDiagram1](https://github.com/user-attachments/assets/2336491f-36a1-4627-bfbf-ef58a29b4820)
 
 ## Communication Diagram
 
