@@ -15,13 +15,13 @@ i) Usecase Diagram
 
 ii)Class Diagram
 
-iii)Activity Diagram
+iii)Sequence Diagram
 
-iv)Communication Diagram
+iv)Activity Diagram
 
-v)Package Diagram
+v)Communication Diagram
 
-vi)Sequence Diagram
+vi)Package Diagram
 
 # DIAGRAMS:
 
